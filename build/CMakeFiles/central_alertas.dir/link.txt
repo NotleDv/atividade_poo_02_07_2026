@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -fsanitize=address,undefined CMakeFiles/central_alertas.dir/main.cpp.o CMakeFiles/central_alertas.dir/alerta.cpp.o CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o CMakeFiles/central_alertas.dir/central.cpp.o -o central_alertas 
