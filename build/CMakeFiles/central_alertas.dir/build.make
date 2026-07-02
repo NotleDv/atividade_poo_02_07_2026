@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/elton_notebook/CDIA/atividade_poo_02_07_2026
+CMAKE_SOURCE_DIR = /home/elton_notebook/atividade_poo_02_07_2026
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/elton_notebook/CDIA/atividade_poo_02_07_2026/build
+CMAKE_BINARY_DIR = /home/elton_notebook/atividade_poo_02_07_2026/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/central_alertas.dir/depend.make
@@ -72,86 +72,86 @@ include CMakeFiles/central_alertas.dir/flags.make
 CMakeFiles/central_alertas.dir/main.cpp.o: CMakeFiles/central_alertas.dir/flags.make
 CMakeFiles/central_alertas.dir/main.cpp.o: ../main.cpp
 CMakeFiles/central_alertas.dir/main.cpp.o: CMakeFiles/central_alertas.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/central_alertas.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/main.cpp.o -MF CMakeFiles/central_alertas.dir/main.cpp.o.d -o CMakeFiles/central_alertas.dir/main.cpp.o -c /home/elton_notebook/CDIA/atividade_poo_02_07_2026/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/central_alertas.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/main.cpp.o -MF CMakeFiles/central_alertas.dir/main.cpp.o.d -o CMakeFiles/central_alertas.dir/main.cpp.o -c /home/elton_notebook/atividade_poo_02_07_2026/main.cpp
 
 CMakeFiles/central_alertas.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/central_alertas.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/CDIA/atividade_poo_02_07_2026/main.cpp > CMakeFiles/central_alertas.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/atividade_poo_02_07_2026/main.cpp > CMakeFiles/central_alertas.dir/main.cpp.i
 
 CMakeFiles/central_alertas.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/central_alertas.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/CDIA/atividade_poo_02_07_2026/main.cpp -o CMakeFiles/central_alertas.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/atividade_poo_02_07_2026/main.cpp -o CMakeFiles/central_alertas.dir/main.cpp.s
 
 CMakeFiles/central_alertas.dir/alerta.cpp.o: CMakeFiles/central_alertas.dir/flags.make
 CMakeFiles/central_alertas.dir/alerta.cpp.o: ../alerta.cpp
 CMakeFiles/central_alertas.dir/alerta.cpp.o: CMakeFiles/central_alertas.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/central_alertas.dir/alerta.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alerta.cpp.o -MF CMakeFiles/central_alertas.dir/alerta.cpp.o.d -o CMakeFiles/central_alertas.dir/alerta.cpp.o -c /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alerta.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/central_alertas.dir/alerta.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alerta.cpp.o -MF CMakeFiles/central_alertas.dir/alerta.cpp.o.d -o CMakeFiles/central_alertas.dir/alerta.cpp.o -c /home/elton_notebook/atividade_poo_02_07_2026/alerta.cpp
 
 CMakeFiles/central_alertas.dir/alerta.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/central_alertas.dir/alerta.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alerta.cpp > CMakeFiles/central_alertas.dir/alerta.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/atividade_poo_02_07_2026/alerta.cpp > CMakeFiles/central_alertas.dir/alerta.cpp.i
 
 CMakeFiles/central_alertas.dir/alerta.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/central_alertas.dir/alerta.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alerta.cpp -o CMakeFiles/central_alertas.dir/alerta.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/atividade_poo_02_07_2026/alerta.cpp -o CMakeFiles/central_alertas.dir/alerta.cpp.s
 
 CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o: CMakeFiles/central_alertas.dir/flags.make
 CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o: ../alertas/alerta_critico.cpp
 CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o: CMakeFiles/central_alertas.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o -MF CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o.d -o CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o -c /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_critico.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o -MF CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o.d -o CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.o -c /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_critico.cpp
 
 CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_critico.cpp > CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_critico.cpp > CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.i
 
 CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_critico.cpp -o CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_critico.cpp -o CMakeFiles/central_alertas.dir/alertas/alerta_critico.cpp.s
 
 CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o: CMakeFiles/central_alertas.dir/flags.make
 CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o: ../alertas/alerta_aviso.cpp
 CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o: CMakeFiles/central_alertas.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o -MF CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o.d -o CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o -c /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_aviso.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o -MF CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o.d -o CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.o -c /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_aviso.cpp
 
 CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_aviso.cpp > CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_aviso.cpp > CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.i
 
 CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_aviso.cpp -o CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_aviso.cpp -o CMakeFiles/central_alertas.dir/alertas/alerta_aviso.cpp.s
 
 CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o: CMakeFiles/central_alertas.dir/flags.make
 CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o: ../alertas/alerta_info.cpp
 CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o: CMakeFiles/central_alertas.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o -MF CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o.d -o CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o -c /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_info.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o -MF CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o.d -o CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o -c /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_info.cpp
 
 CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_info.cpp > CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_info.cpp > CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.i
 
 CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alertas/alerta_info.cpp -o CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/atividade_poo_02_07_2026/alertas/alerta_info.cpp -o CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.s
 
 CMakeFiles/central_alertas.dir/central.cpp.o: CMakeFiles/central_alertas.dir/flags.make
 CMakeFiles/central_alertas.dir/central.cpp.o: ../central.cpp
 CMakeFiles/central_alertas.dir/central.cpp.o: CMakeFiles/central_alertas.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/central_alertas.dir/central.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/central.cpp.o -MF CMakeFiles/central_alertas.dir/central.cpp.o.d -o CMakeFiles/central_alertas.dir/central.cpp.o -c /home/elton_notebook/CDIA/atividade_poo_02_07_2026/central.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/central_alertas.dir/central.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/central_alertas.dir/central.cpp.o -MF CMakeFiles/central_alertas.dir/central.cpp.o.d -o CMakeFiles/central_alertas.dir/central.cpp.o -c /home/elton_notebook/atividade_poo_02_07_2026/central.cpp
 
 CMakeFiles/central_alertas.dir/central.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/central_alertas.dir/central.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/CDIA/atividade_poo_02_07_2026/central.cpp > CMakeFiles/central_alertas.dir/central.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/elton_notebook/atividade_poo_02_07_2026/central.cpp > CMakeFiles/central_alertas.dir/central.cpp.i
 
 CMakeFiles/central_alertas.dir/central.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/central_alertas.dir/central.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/CDIA/atividade_poo_02_07_2026/central.cpp -o CMakeFiles/central_alertas.dir/central.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/elton_notebook/atividade_poo_02_07_2026/central.cpp -o CMakeFiles/central_alertas.dir/central.cpp.s
 
 # Object files for target central_alertas
 central_alertas_OBJECTS = \
@@ -173,7 +173,7 @@ central_alertas: CMakeFiles/central_alertas.dir/alertas/alerta_info.cpp.o
 central_alertas: CMakeFiles/central_alertas.dir/central.cpp.o
 central_alertas: CMakeFiles/central_alertas.dir/build.make
 central_alertas: CMakeFiles/central_alertas.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable central_alertas"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable central_alertas"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/central_alertas.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -185,6 +185,6 @@ CMakeFiles/central_alertas.dir/clean:
 .PHONY : CMakeFiles/central_alertas.dir/clean
 
 CMakeFiles/central_alertas.dir/depend:
-	cd /home/elton_notebook/CDIA/atividade_poo_02_07_2026/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/elton_notebook/CDIA/atividade_poo_02_07_2026 /home/elton_notebook/CDIA/atividade_poo_02_07_2026 /home/elton_notebook/CDIA/atividade_poo_02_07_2026/build /home/elton_notebook/CDIA/atividade_poo_02_07_2026/build /home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles/central_alertas.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/elton_notebook/atividade_poo_02_07_2026/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/elton_notebook/atividade_poo_02_07_2026 /home/elton_notebook/atividade_poo_02_07_2026 /home/elton_notebook/atividade_poo_02_07_2026/build /home/elton_notebook/atividade_poo_02_07_2026/build /home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles/central_alertas.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/central_alertas.dir/depend
 

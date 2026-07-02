@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/elton_notebook/CDIA/atividade_poo_02_07_2026
+CXX_INCLUDES = -I/home/elton_notebook/atividade_poo_02_07_2026
 
 CXX_FLAGS = -g -Wall -Wextra -fsanitize=address,undefined -g -std=gnu++17
 

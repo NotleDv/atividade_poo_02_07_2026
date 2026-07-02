@@ -1,3 +1,3 @@
-/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles/central_alertas.dir
-/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles/edit_cache.dir
-/home/elton_notebook/CDIA/atividade_poo_02_07_2026/build/CMakeFiles/rebuild_cache.dir
+/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles/central_alertas.dir
+/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles/edit_cache.dir
+/home/elton_notebook/atividade_poo_02_07_2026/build/CMakeFiles/rebuild_cache.dir

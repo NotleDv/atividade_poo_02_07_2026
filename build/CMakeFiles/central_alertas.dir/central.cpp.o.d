@@ -1,7 +1,7 @@
 CMakeFiles/central_alertas.dir/central.cpp.o: \
- /home/elton_notebook/CDIA/atividade_poo_02_07_2026/central.cpp \
+ /home/elton_notebook/atividade_poo_02_07_2026/central.cpp \
  /usr/include/stdc-predef.h \
- /home/elton_notebook/CDIA/atividade_poo_02_07_2026/central.hpp \
+ /home/elton_notebook/atividade_poo_02_07_2026/central.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -120,7 +120,7 @@ CMakeFiles/central_alertas.dir/central.cpp.o: \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
  /usr/include/c++/11/pstl/execution_defs.h \
- /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alerta.hpp \
+ /home/elton_notebook/atividade_poo_02_07_2026/alerta.hpp \
  /usr/include/c++/11/string /usr/include/c++/11/bits/char_traits.h \
  /usr/include/c++/11/cstdint /usr/include/c++/11/bits/localefwd.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h \

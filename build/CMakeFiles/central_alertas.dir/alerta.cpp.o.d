@@ -1,7 +1,7 @@
 CMakeFiles/central_alertas.dir/alerta.cpp.o: \
- /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alerta.cpp \
+ /home/elton_notebook/atividade_poo_02_07_2026/alerta.cpp \
  /usr/include/stdc-predef.h \
- /home/elton_notebook/CDIA/atividade_poo_02_07_2026/alerta.hpp \
+ /home/elton_notebook/atividade_poo_02_07_2026/alerta.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
